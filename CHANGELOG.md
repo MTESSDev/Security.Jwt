@@ -1,3 +1,73 @@
+# 1.0.0 (2025-02-23)
+
+
+### Bug Fixes
+
+* bug in tests ([c8d8084](https://github.com/MTESSDev/Security.Jwt/commit/c8d8084e9626d2321781a1150b4734154e055360))
+* cache bug ([f26f7d5](https://github.com/MTESSDev/Security.Jwt/commit/f26f7d5e660d1cad26b30a59325ac4cbc711d09f)), closes [#40](https://github.com/MTESSDev/Security.Jwt/issues/40)
+* ci ([8baeb3e](https://github.com/MTESSDev/Security.Jwt/commit/8baeb3ef873c04a5c7e96cf28c01db6409ca8c5e))
+* ci ([116029d](https://github.com/MTESSDev/Security.Jwt/commit/116029da0bf1cf53920fe7b7827c62c1b2194e96))
+* **DataProtectionStore:** change alg creation strategy ([5dc4e74](https://github.com/MTESSDev/Security.Jwt/commit/5dc4e7484399918e68879283db46c4e37a4c5d7e))
+* datetime kind problem use npgsql [issues [#23](https://github.com/MTESSDev/Security.Jwt/issues/23)] ([04134d2](https://github.com/MTESSDev/Security.Jwt/commit/04134d201773ece578013e6704c0068b1c3ca273))
+* demo bug fix & README.md ([c260a77](https://github.com/MTESSDev/Security.Jwt/commit/c260a774fe25fa8bb74461aa4adc9f501346afdd))
+* dependencies ([6bf5f0a](https://github.com/MTESSDev/Security.Jwt/commit/6bf5f0aba99d7f8358e6b47a8e96af133160eac1))
+* dependencies [skip ci] ([45a5c89](https://github.com/MTESSDev/Security.Jwt/commit/45a5c89283a4435dd0a81fe5a1be57a3c1ae6adf))
+* deps ([c78f08e](https://github.com/MTESSDev/Security.Jwt/commit/c78f08ea28d69c1eb7a5e014cedf76d4b7a5ae8a))
+* docs ([502e365](https://github.com/MTESSDev/Security.Jwt/commit/502e36528ff71b3c64a64e9114b91992f9428568))
+* dotnet 8 release ([35c407b](https://github.com/MTESSDev/Security.Jwt/commit/35c407bac77d4b07d0f8aec9619207b32b1b0522))
+* HS256 incompatibility ([8f688b1](https://github.com/MTESSDev/Security.Jwt/commit/8f688b1745a6ecbfc1dec9cd9f57cb918ffd6237)), closes [#47](https://github.com/MTESSDev/Security.Jwt/issues/47) [#54](https://github.com/MTESSDev/Security.Jwt/issues/54)
+* ispackable ([5f36693](https://github.com/MTESSDev/Security.Jwt/commit/5f36693317f6d9ac73cf6fd6078fbf7b47f87cb6))
+* JsonWebKey deserialization ([fd4199e](https://github.com/MTESSDev/Security.Jwt/commit/fd4199e2bbc93aa171f716df388bc0db4ae8835c))
+* jwe tstes ([38f5f54](https://github.com/MTESSDev/Security.Jwt/commit/38f5f5479668725c9592e218d72743d52826d75a))
+* jwt validation ([93d3afd](https://github.com/MTESSDev/Security.Jwt/commit/93d3afd2824f854dc219e0ba50f7ead3335bfa9c))
+* KeyMaterialMap for database store ([5cc9fdf](https://github.com/MTESSDev/Security.Jwt/commit/5cc9fdfdceaf23b0c0f6d2b59cd55ad68ee6903a))
+* keypath creaete ([e13b78f](https://github.com/MTESSDev/Security.Jwt/commit/e13b78fc2908c740397712bc721b77ed3262dda6))
+* latest packages ([a029796](https://github.com/MTESSDev/Security.Jwt/commit/a0297962c1b2f66d05ca2163f78b1b92bfe1fcb9))
+* path ([449aa0f](https://github.com/MTESSDev/Security.Jwt/commit/449aa0f09d774f5559ae9b9fda97832cdbf60950))
+* publish ([c4a3cc0](https://github.com/MTESSDev/Security.Jwt/commit/c4a3cc05db2b695b72ece0219b387872a7111c05))
+* readme ([8564980](https://github.com/MTESSDev/Security.Jwt/commit/8564980c592b36f579db8a73f9a8fdd3e4a561b1))
+* README.md typos ([2c3d1d5](https://github.com/MTESSDev/Security.Jwt/commit/2c3d1d5446503b923b81f4705fb680d637993a94))
+* releaserc ([bb25404](https://github.com/MTESSDev/Security.Jwt/commit/bb254042f6a859129df240c938f7ffcf1102dddc))
+* releaserc ([aeaa484](https://github.com/MTESSDev/Security.Jwt/commit/aeaa484743096bfdda99de730beb9d88b103f2f8))
+* removed test to validate imemorycache ([7e76fce](https://github.com/MTESSDev/Security.Jwt/commit/7e76fce1022f237290b221ad61bbe14dc28c1859))
+* revocation keys ([de446d8](https://github.com/MTESSDev/Security.Jwt/commit/de446d8cb1b226230727944eef9c91f5c9f0a270))
+* revoke key ([47df6c2](https://github.com/MTESSDev/Security.Jwt/commit/47df6c241047e168b109f1b61ebc0dc7cc58ccfd))
+* revoke reason to EF store ([3e99b2d](https://github.com/MTESSDev/Security.Jwt/commit/3e99b2d6791b884b5e081b3e95d337e116034a6a))
+* sample and namespaces ([0b07d26](https://github.com/MTESSDev/Security.Jwt/commit/0b07d26a651b4222b63af364c565a379f13b4de9))
+* **security:** upgrade dependencies ([731b499](https://github.com/MTESSDev/Security.Jwt/commit/731b499aa3f988fbe6d9e8dca2bd537ed61cab01))
+* semantic ([f3d2532](https://github.com/MTESSDev/Security.Jwt/commit/f3d25325a3458e3bdff706b9a1c87a260eb15c90))
+* semantic-release v3 ([2bdd8b7](https://github.com/MTESSDev/Security.Jwt/commit/2bdd8b7f359686fbfec2e0ca752e8e207a29dd25))
+* signing validate jwks instead a single jwk ([e756c37](https://github.com/MTESSDev/Security.Jwt/commit/e756c37d5ee131952eb487904785f0aefa9714d4))
+* teste path ([b9183ac](https://github.com/MTESSDev/Security.Jwt/commit/b9183accb61affe71f8b4bf9532c91aea8f5b937))
+* try ([a25d6e0](https://github.com/MTESSDev/Security.Jwt/commit/a25d6e0479880c60cb968b45887af12c1f5e6626))
+* try 2 ([fd69a3e](https://github.com/MTESSDev/Security.Jwt/commit/fd69a3e496b5ea211f0847e1329222ac5295f895))
+* try 3 ([1d5b603](https://github.com/MTESSDev/Security.Jwt/commit/1d5b603554004c08fe47fb5f531e29aa07b74cdc))
+* updated samples ([b07f06d](https://github.com/MTESSDev/Security.Jwt/commit/b07f06da0c35e4f43b5fb87b78827e096c3cd03f))
+* warnings [skip ci] ([7b0c06f](https://github.com/MTESSDev/Security.Jwt/commit/7b0c06f121ac01c71e4f2289b5b3677dee67d2d9))
+
+
+### Features
+
+* .net 6 ([58aa518](https://github.com/MTESSDev/Security.Jwt/commit/58aa51894c26ddab282c627d8d2d97c8c3cd2aeb))
+* dotnet 8 ([5814e03](https://github.com/MTESSDev/Security.Jwt/commit/5814e03d62bc2480147e0ad3c9ebb177a33ef118))
+* Generate new key ([3de819d](https://github.com/MTESSDev/Security.Jwt/commit/3de819d078dc2c5760a746f234d5333a8cb9cb0e))
+* **jwe:** Adding full support Jwe in jwks store ([3635232](https://github.com/MTESSDev/Security.Jwt/commit/36352326d83f4418c1a6200c37654aec07678a9a))
+* **jwe:** Adding full support Jwe in jwks store ([68ef7b3](https://github.com/MTESSDev/Security.Jwt/commit/68ef7b34ecb2285bf2cd790a0380d6f202f961a3))
+* **jwe:** discovery endpoint for jwe ([b385ace](https://github.com/MTESSDev/Security.Jwt/commit/b385acec11221a936c4fb76c9d27f651e4533b9b))
+* net 6 ([09970e8](https://github.com/MTESSDev/Security.Jwt/commit/09970e85fda3f873e532acfd87460b71d1d1ba9c))
+* net 7 support ([3e50c4d](https://github.com/MTESSDev/Security.Jwt/commit/3e50c4d50b9512d75d2a35f29d7e745ee083970b))
+* new demos [skip ci] ([a0a5f62](https://github.com/MTESSDev/Security.Jwt/commit/a0a5f622f48dc98361ffbe327905feef2a816722))
+* Revoked Reason ([c7f10bc](https://github.com/MTESSDev/Security.Jwt/commit/c7f10bcdb392ebef79140b9c3dff00b49c2aab7a))
+* **revoke:** revoke key with given reason ([350fcaa](https://github.com/MTESSDev/Security.Jwt/commit/350fcaa26ba3645344d3d060a42787aa55f98fa1))
+
+
+### BREAKING CHANGES
+
+* .NET 8. Use of TokenHandlers instead SecurityTokenValidators see https://aka.ms/aspnetcore8/security-token-changes
+* net 5 drop
+* Refactoring key generation system
+* **DataProtectionStore:** Changed DataProtection protector
+
 ## [8.1.5](https://github.com/NetDevPack/Security.Jwt/compare/v8.1.4...v8.1.5) (2024-04-27)
 
 
